@@ -1,9 +1,18 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inconsolata:wght@300;600&display=swap');
 
-.header{
-  font-size: 2.3em;
-  padding-bottom:1.2em
+
+html{
+  background-color: #434343;
+}
+.App {
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+
+}
+header{
+  text-align: left;
+  font-size: 3rem;
+  padding: 3rem 2rem;
+  font-weight: 600 ;
+  color: white;
 }
